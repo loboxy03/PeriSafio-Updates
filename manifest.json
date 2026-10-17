@@ -1,0 +1,45 @@
+{
+  "content_version": "18",
+  "launcher_version": "1.0.3",
+  "minecraft_version": "1.20.1",
+  "forge_version": "47.4.10",
+  "remove_missing": true,
+  "files": [
+    {
+      "path": "mods/MomentoReviilClient-1_4_0.jar",
+      "type": "mod",
+      "sha256": "1f127093c629e3ff92db89586bfc953bae53bd94b616d98a8676c6c85adddd08",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/MomentoReviilClient-1_4_0.jar"
+    },
+    {
+      "path": "mods/candadomod-1.0.0.jar",
+      "type": "mod",
+      "sha256": "e23c6b77c6b8558c608251ab03c410c3dec2faf2c1da3e5904f570ea9057192a",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/candadomod-1.0.0.jar"
+    },
+    {
+      "path": "mods/PeriSafioDeathMod-1.0.1.jar",
+      "type": "mod",
+      "sha256": "48601d2b00f6ab778d79679dff94480415e6196e9a17d74f92cf8895cbe279bf",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/PeriSafioDeathMod-1.0.1.jar"
+    },
+    {
+      "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
+      "type": "resourcepack",
+      "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "type": "mod",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/DedsafioDifficultyAddon-1_20_1-1_0_0.jar",
+      "type": "mod",
+      "sha256": "053fe1c7413ebc248a3f02413c130955be73b77102aa2d3ca109fcffefd80ad1",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/DedsafioDifficultyAddon-1_20_1-1_0_0.jar"
+    }
+  ]
+}
