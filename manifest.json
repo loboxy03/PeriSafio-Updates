@@ -1,8 +1,9 @@
 {
-  "content_version": "13",
+  "content_version": "14",
   "launcher_version": "1.0.3",
   "minecraft_version": "1.20.1",
   "forge_version": "47.4.10",
+  "remove_missing": true,
   "files": [
     {
       "path": "mods/MomentoReviilClient-1_4_0.jar",
@@ -29,7 +30,7 @@
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"
     },
     {
-      "path": "resourcepacks/Dedsafio 3.zip",
+      "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
       "type": "resourcepack",
       "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
