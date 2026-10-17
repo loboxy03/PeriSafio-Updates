@@ -1,5 +1,5 @@
 {
-  "content_version": "15",
+  "content_version": "16",
   "launcher_version": "1.0.3",
   "minecraft_version": "1.20.1",
   "forge_version": "47.4.10",
@@ -22,12 +22,6 @@
       "type": "mod",
       "sha256": "48601d2b00f6ab778d79679dff94480415e6196e9a17d74f92cf8895cbe279bf",
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/PeriSafioDeathMod-1.0.1.jar"
-    },
-    {
-      "path": "mods/morpher-1.0.9.jar",
-      "type": "mod",
-      "sha256": "7a032604811aeb9189d0ed4cf07781636637d893e18e7dd63d224683f5f10b46",
-      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"
     },
     {
       "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
