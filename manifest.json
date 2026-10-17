@@ -1,5 +1,5 @@
 {
-  "content_version": "9",
+  "content_version": "10",
   "launcher_version": "1.0.3",
   "minecraft_version": "1.20.1",
   "forge_version": "47.4.10",
@@ -9,6 +9,12 @@
       "type": "mod",
       "sha256": "1f127093c629e3ff92db89586bfc953bae53bd94b616d98a8676c6c85adddd08",
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/MomentoReviilClient-1_4_0.jar"
+    },
+    {
+      "path": "mods/candadomod-1.0.0.jar",
+      "type": "mod",
+      "sha256": "e23c6b77c6b8558c608251ab03c410c3dec2faf2c1da3e5904f570ea9057192a",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/candadomod-1.0.0.jar"
     }
   ]
 }
